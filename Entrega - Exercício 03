@@ -36,7 +36,7 @@ mmc = num1 if num1 > num2 else num2
 while not (mmc % num1 == 0 and mmc % num2 == 0):
     mmc += 1
 print(f"O MMC de {num1} e {num2} é {mmc}.")
-[11:19, 27/03/2026] Mariana Pondé: nota = float(input("Qual sua nota? "))
+nota = float(input("Qual sua nota? "))
 while nota < 0 or nota > 10:
     print("Nota inválida. Digite novamente.")
     nota = float(input("Qual sua nota? "))
