@@ -7,3 +7,4 @@ while True:
         break
     else:
         mmc += 1
+print(f"O MMC de {num1} e {num2} é {mmc}.")
