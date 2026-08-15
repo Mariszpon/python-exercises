@@ -8,7 +8,6 @@
 
 <p>
   <a href="#introducao">Introdução</a> ★
-  <a href="#estrutura">Estrutura</a> ★
   <a href="#objetivo">Objetivo</a> ★
   <a href="#conteudo">Conteúdo</a> ★
   <a href="#notaspessoais">Notas Pessoais</a>
@@ -30,7 +29,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada um abordando 
 * Validação de entradas;
 * Biblioteca 'random';
 * Estilização com códigos.
-* Funções (def/return);
-* Lista simples (vetores);
-* Matriz (lista de listas);
-* E outros conceitos.
+
+---
+
+## Objetivo: <a id="objetivo"></a>
