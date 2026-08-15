@@ -7,9 +7,9 @@
 </p>
 
 <p>
-  <a href="#introducao">Introdução</a> 𔓘
-  <a href="#objetivo">Objetivo</a> 𔓘
-  <a href="#notaspessoais">Notas Pessoais</a> 𔓘
+  <a href="#introducao">Introdução</a> •
+  <a href="#objetivo">Objetivo</a> •
+  <a href="#notaspessoais">Notas Pessoais</a> •
     <a href="#finalizacao">Finalização</a>
 </p>
 </div>
