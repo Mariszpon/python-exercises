@@ -18,7 +18,6 @@
 
 ## Introdução: <a id="introducao"></a>
 
-### Propósito:
 Este repositório marca o início da minha trajetória em programação, reunindo desde Março de 2026 exercícios acadêmicos em Python, desenvolvidos como parte da disciplina de programação no início da graduação.
 Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Python.
 
@@ -34,14 +33,12 @@ Os arquivos estão organizados por exercícios da disciplina, cada um abordando 
 
 ## Objetivo: <a id="objetivo"></a>
 
-### Resumo:
 Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e documentar meu progresso acadêmico ao longo da graduação.
 
 ---
 
 ## Notas Pessoais: <a id="notaspessoais"></a>
 
-### Minha Experiência:
 Ao longo deste período, eu percebi que já evoluí bastante em lógica e programação, mas apresento pontos em que pretendo melhorar.
 
 ---
