@@ -10,7 +10,7 @@
   <a href="#introducao">Introdução</a> ★
   <a href="#objetivo">Objetivo</a> ★
   <a href="#notaspessoais">Notas Pessoais</a>
-    <a href="#finalizacao">Finalizção</a>
+    <a href="#finalizacao">Finalização</a>
 </p>
 </div>
 
@@ -35,7 +35,7 @@ Os arquivos estão organizados por exercícios da disciplina, cada um abordando 
 ## Objetivo: <a id="objetivo"></a>
 
 ### Resumo:
-Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e  documentar meu progresso acadêmico ao longo da graduação.
+Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e documentar meu progresso acadêmico ao longo da graduação.
 
 ---
 
@@ -44,14 +44,11 @@ Este repositório tem como objetivo guardar minhas práticas de conceitos fundam
 ### Minha Experiência:
 Ao longo deste período, eu percebi que já evoluí bastante em lógica e programação, mas apresento pontos em que pretendo melhorar.
 
-### Resumo:
-Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e  documentar meu progresso acadêmico ao longo da graduação.
-
 ---
 
 ## Finalização: <a id="finalizacao"></a>
 
-### ⋆˙⟡ Tecnologias Utilizadas:
+### Tecnologias Utilizadas:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
