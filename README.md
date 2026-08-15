@@ -1,5 +1,5 @@
 <div align="center">
-<h1> ⤿ Exercícios em Python 🐍 </h1>
+<h1> ᯓ Exercícios em Python 🐍 </h1>
 <p>
   <img src="https://img.shields.io/badge/status-concluído-brightgreen" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-orange" />
