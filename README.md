@@ -1,0 +1,36 @@
+<div align="center">
+<h1> python exercises </h1>
+<p>
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" />
+  <img src="https://img.shields.io/badge/projeto-acadêmico-orange" />
+  <img src="https://img.shields.io/badge/linguagem-Python-blue" />
+</p>
+
+<p>
+  <a href="#introducao">Introdução</a> ★
+  <a href="#estrutura">Estrutura</a> ★
+  <a href="#objetivo">Objetivo</a> ★
+  <a href="#conteudo">Conteúdo</a> ★
+  <a href="#notaspessoais">Notas Pessoais</a>
+</p>
+</div>
+
+---
+
+## Introdução: <a id="introducao"></a>
+
+### Propósito:
+Este repositório marca o início da minha trajetória em programação, reunindo desde Março de 2026 exercícios acadêmicos em Python, desenvolvidos como parte da disciplina de programação no início da graduação.
+Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Python.
+
+### Conceitos de Programação Aplicados:
+* Estruturas de repetição (while/for);
+* Estruturas condicionais (if/elif/else);
+* Manipulação de strings (.lower());
+* Validação de entradas;
+* Biblioteca 'random';
+* Estilização com códigos.
+* Funções (def/return);
+* Lista simples (vetores);
+* Matriz (lista de listas);
+* E outros conceitos.
