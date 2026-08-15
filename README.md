@@ -18,7 +18,7 @@
 
 ## ♯ Introdução: <a id="introducao"></a>
 
-Este repositório marca o início da minha trajetória em programação, reunindo desde Março de 2026 exercícios acadêmicos em Python, desenvolvidos como parte da disciplina de programação no início da graduação.
+Este repositório marca o início da minha trajetória em programação, reunindo desde Março de 2026 exercícios acadêmicos em Python, desenvolvidos como parte da disciplina de Raciocínio Algorítmico no início da graduação.
 Os arquivos estão organizados por exercícios da disciplina, cada um abordando um tópico específico de programação em Python.
 
 ### ⟢ Conceitos Aplicados:
