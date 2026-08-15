@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/status-concluído-brightgreen" />
   <img src="https://img.shields.io/badge/projeto-acadêmico-orange" />
-  <img src="https://img.shields.io/badge/linguagem-Python-blue" />
+  <img src="https://img.shields.io/badge/linguagem-python-blue" />
 </p>
 
 <p>
