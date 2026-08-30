@@ -14,7 +14,6 @@
 </p>
 </div>
 
----
 
 ## ♯ Introdução: <a id="introducao"></a>
 
@@ -29,19 +28,16 @@ Os arquivos estão organizados por exercícios da disciplina, cada um abordando 
 * Biblioteca 'random';
 * Estilização com códigos.
 
----
 
 ## ♯ Objetivo: <a id="objetivo"></a>
 
 Este repositório tem como objetivo guardar minhas práticas de conceitos fundamentais de programação em Python e documentar meu progresso acadêmico ao longo da graduação.
 
----
 
 ## ♯ Notas Pessoais: <a id="notaspessoais"></a>
 
 Ao longo deste período, eu percebi que já evoluí bastante em lógica e programação, mas apresento pontos em que pretendo melhorar.
 
----
 
 ## ♯ Finalização: <a id="finalizacao"></a>
 
