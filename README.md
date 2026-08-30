@@ -50,3 +50,7 @@ Ao longo deste período, eu percebi que já evoluí bastante em lógica e progra
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)&nbsp;
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20by-Marispon-teal?style=for-the-badge" />
+</p>
